@@ -16,6 +16,8 @@
 
 - https://github.com/galacticcouncil/HydraDX-audit-reports/blob/main/220322-BlockScience-Omnipool-Report%2Baddendum-by-HydraDX.pdf
 
+- https://blog.openzeppelin.com/security-review-ink-cargo-contract/
+
   
 
 # Post Mortems
