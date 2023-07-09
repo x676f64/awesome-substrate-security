@@ -18,6 +18,8 @@
 
 - https://blog.openzeppelin.com/security-review-ink-cargo-contract/
 
+- https://github.com/HalbornSecurity/PublicReports/tree/master/Substrate%20Audits
+
   
 
 # Post Mortems
