@@ -33,6 +33,7 @@
 # Audit Guides
 
 - https://github.com/slowmist/Cryptocurrency-Security-Audit-Guide
+- https://mixbytes.io/blog/audit-of-substrate-pallets-overview-tips
 
 # Blog Articles
 
