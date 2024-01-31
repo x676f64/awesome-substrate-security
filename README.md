@@ -39,3 +39,7 @@
 - https://www.srlabs.de/blog-post/blockchain-security-six-common-mistakes-found-in-substate-chains
 
 - https://mixbytes.io/blog/audit-of-substrate-pallets-overview-tips
+
+# Videos
+
+- https://www.youtube.com/watch?v=fun4HcKapkE
