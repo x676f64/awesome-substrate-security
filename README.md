@@ -20,7 +20,9 @@
 
 - https://github.com/HalbornSecurity/PublicReports/tree/master/Substrate%20Audits
 
-  
+# Tools
+
+- https://github.com/srlabs/substrate-runtime-fuzzer
 
 # Post Mortems
 
